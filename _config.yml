@@ -1,15 +1,15 @@
-title: John Smith
+title: mp19uy
 description: My Personal Blog
-author: John Smith
+author: Martin Pacheco	
 logo: /static/img/avatar.png
-github: https://github.com/ashutosh2k12
-about: Freelance developer
+github: https://github.com/mp19uy
+about: Security Enthusiast
 
 baseurl: ""
-url: "http://aboutashu.com/hcz-jekyll-blog"
+url: "http://mp19uy.github.io/"
 
-disqus_shortname: aboutashu
-google_analytics: UA-72862926-1
+disqus_shortname: mp19uy
+google_analytics: UA-39025503-3
 
 share:
   twitter_username: \#

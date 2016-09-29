@@ -1,11 +1,12 @@
-## HCZ Material theme
+## mp19uy's blog
 
-This is a simple personal material theme, best suited for personal authors, programmars, bloggers. 
+This is my personal blog.
 
-### Demo
+### Original Theme
+HCZ Material theme
 * [http://aboutashu.com/hcz-jekyll-blog](http://aboutashu.com/hcz-jekyll-blog/)
 
-#### Feature
+#### Features
 
 * Sitemap and XML Feed
 * Projects and tags
@@ -15,7 +16,3 @@ This is a simple personal material theme, best suited for personal authors, prog
 * Highlight pre
 * Next & Previous Post
 * Disqus comment
-
-#### Screenshot
-
-![Screenshot Home Page](https://raw.githubusercontent.com/ashutosh2k12/jekyllthemes/master/thumbnails/hcz-material.png  "Screenshot Home Page")
